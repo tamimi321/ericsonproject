@@ -1,5 +1,7 @@
 ## WaveNet AI
 
+### Currently on this Repository is the Example of the Algorithm will be used, the developmen will be started base on the example that attached on the repositories, this repositoru will be updated in the future and stored the WaveNet AI project data
+
 On this project we are using ML/AI Algorithm grouping by the use cases needed on the application 
 
 1. **Anomaly Detection**
@@ -21,6 +23,8 @@ On this project we are using ML/AI Algorithm grouping by the use cases needed on
 
 8. **Predict Optimal Network Link**
 
-   WaveNet AI Functionality to give suggestion
+   WaveNet AI Functionality to give suggestion, the algorithm usage will be based on the parameter such as altitude, location, distance, etc, we are proposing the machine learning usage to implement the best route can be create to give suggestion to engineer,
+
+
 
 
