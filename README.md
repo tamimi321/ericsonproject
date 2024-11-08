@@ -3,6 +3,8 @@
 On this project we are using ML/AI Algorithm grouping by the use cases needed on the application 
 
   1. Anomaly Detection
-  2. Predict Traffic Density and Latency
-  3. Predict Inventory Demand
-  4. Suggestion Optimal Stock
+     WaveNet AI have functionality to detect anomaly on Microwave Network, because we are working with Network Data which means the data is timestamp data the algorithm we proposed to use will be using Algorithm that worked on Timeseries data, for the timeseries data Recurrent Neural Network was one of the algorithm can be used and effective, but in Recurrent Neural Network there are one flawless there are Gradient Vanishing Problem, so we are using the LSTM (Long-Short Term Memory) who has short term memory that can store the detail and tackle the Gradient Vanishing Problem, beside that we will combining the LSTM classification for Anomaly with Naive Bayes Algorithm to giving more sophisticated result.
+    
+  3. Predict Traffic Density and Latency
+  4. Predict Inventory Demand
+  5. Suggestion Optimal Stock
