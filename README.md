@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Anomaly-Detection : LSTM-NB
 Ensure you have the following packages installed:
 pip install numpy pandas matplotlib scikit-learn tensorflow
@@ -39,3 +40,6 @@ You can save and load your trained model using model.save() and load_model() fro
 ## Running the Script
 python app.py
 
+=======
+## WaveNet AI
+>>>>>>> e94c91b13a3e4ea007ab43a228e8968aabf1649f
