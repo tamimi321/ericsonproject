@@ -42,4 +42,14 @@ python app.py
 
 =======
 ## WaveNet AI
+<<<<<<< HEAD
 >>>>>>> e94c91b13a3e4ea007ab43a228e8968aabf1649f
+=======
+
+On this project we are using ML/AI Algorithm grouping by the use cases needed on the application 
+
+  1. Anomaly Detection
+  2. Predict Traffic Density and Latency
+  3. Predict Inventory Demand
+  4. Suggestion Optimal Stock
+>>>>>>> 9b295d533590e24227889b6d798444ac13044789
